@@ -11,6 +11,7 @@ alias ssh-verif='eval `ssh-agent`; ssh-add'
 # rsub
 alias rsub='~/rsub'
 
+<<<<<<< HEAD
 # windows
 export lime='/mnt/c/Users/caith/'
 
