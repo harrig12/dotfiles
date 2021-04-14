@@ -39,3 +39,8 @@ bindkey '^[[5C' end-of-line
 bindkey '^[[4~' end-of-line
 bindkey '^[[3~' delete-char
 bindkey '^?' backward-delete-char
+bindkey "^[[A" up-line-or-beginning-search # Up
+bindkey "^[[B" down-line-or-beginning-search # Down
+bindkey  "^[[H"   beginning-of-line # home-alt
+bindkey  "^[[F"   end-of-line # end-alt
+
