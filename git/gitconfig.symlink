@@ -33,7 +33,7 @@
         # Setting to git 2.0 default to suppress warning message
         default = simple
 [credential]
-	helper = store
+	helper = cache
 [user]
 	name = Cait Harrigan
 	email = harrigc@crick.ac.uk
