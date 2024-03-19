@@ -34,3 +34,6 @@
         default = simple
 [credential]
 	helper = store
+[user]
+	name = Cait Harrigan
+	email = harrigc@crick.ac.uk
